@@ -1,0 +1,34 @@
+'context-menu':
+	'.tree-view.full-menu .entry, .tree-view.full-menu .header.list-item': [
+		{
+			'label': 'Bemy'
+			'submenu': [
+				{
+					'label': 'Bemy auto'
+					'command': 'bemy:auto'
+				},
+				{
+					'label': 'Bemy create'
+					'command': 'bemy:create'
+				}
+			]
+		}
+	]
+'menu': [
+	{
+		'label': 'Packages'
+		'submenu': [
+			'label': 'Bemy'
+			'submenu': [
+				{
+					'label': 'Bemy auto'
+					'command': 'bemy:auto'
+				},
+				{
+					'label': 'Bemy create'
+					'command': 'bemy:create'
+				}
+			]
+		]
+	}
+]
