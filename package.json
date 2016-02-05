@@ -1,13 +1,16 @@
 {
-	"name": "atom-bemy",
-	"main": "./lib/bemy",
-	"version": "0.0.0",
-	"description": "Bemy plugin for atom",
-	"keywords": ["atom", "bemy"],
-	"repository": "https://github.com/frux/atom-bemy",
-	"license": "WTFPL",
-	"engines": {
-		"atom": ">=1.0.0 <2.0.0"
-	},
-	"dependencies": {}
+  "name": "atom-bemy",
+  "main": "./lib/bemy",
+  "version": "0.1.0",
+  "description": "Bemy plugin for atom",
+  "keywords": [
+    "atom",
+    "bemy"
+  ],
+  "repository": "https://github.com/frux/atom-bemy",
+  "license": "WTFPL",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
