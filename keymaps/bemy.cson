@@ -7,6 +7,6 @@
 
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
-'atom-workspace':
-  'ctrl-cmd-shift-a': 'bemy:auto'
-  'ctrl-cmd-shift-c': 'bemy:create'
+'.platform-darwin .tree-view':
+  'cmd-shift-A': 'bemy:auto'
+  'cmd-shift-C': 'bemy:create'

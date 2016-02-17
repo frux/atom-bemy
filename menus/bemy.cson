@@ -4,31 +4,16 @@
 			'label': 'Bemy'
 			'submenu': [
 				{
-					'label': 'Bemy auto'
+					'label': 'Auto'
 					'command': 'bemy:auto'
 				},
 				{
-					'label': 'Bemy create'
+					'label': 'Create'
 					'command': 'bemy:create'
 				}
 			]
 		}
 	]
 'menu': [
-	{
-		'label': 'Packages'
-		'submenu': [
-			'label': 'Bemy'
-			'submenu': [
-				{
-					'label': 'Bemy auto'
-					'command': 'bemy:auto'
-				},
-				{
-					'label': 'Bemy create'
-					'command': 'bemy:create'
-				}
-			]
-		]
-	}
+	{}
 ]
